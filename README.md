@@ -22,7 +22,7 @@ A retro, pixel-art style interactive web application designed to playfully ask s
 
 1.  Clone this repository or download the files.
 2.  Open `index.html` in your web browser.
-3.  Alternatively, view the live demo hosted on GitHub Pages: 
+3.  Alternatively, view the live demo hosted on GitHub Pages: https://thrishasaranya.github.io/Valentine_2026/
 
 ## Engineering Notes
 
